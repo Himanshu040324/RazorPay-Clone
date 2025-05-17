@@ -1,0 +1,13 @@
+{
+  "hash": "2eeaeb74",
+  "browserHash": "2f01c0b6",
+  "optimized": {
+    "feather-icons": {
+      "src": "../../feather-icons/dist/feather.js",
+      "file": "feather-icons.js",
+      "fileHash": "72f3e498",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}
